@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "edu.cnm.deepdive.codebreaker"
+        applicationId "edu.cnm.deepdive.codebreaker-deprecated"
         minSdkVersion 26
         targetSdkVersion 30
         versionCode 1
