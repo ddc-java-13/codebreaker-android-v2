@@ -2,7 +2,6 @@ package edu.cnm.deepdive.codebreaker.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
-import android.view.View;
 import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
@@ -11,7 +10,6 @@ import edu.cnm.deepdive.codebreaker.adapter.HistoryAdapter.Holder;
 import edu.cnm.deepdive.codebreaker.databinding.ItemHistoryBinding;
 import edu.cnm.deepdive.codebreaker.model.pojo.GameWithGuesses;
 import java.text.DateFormat;
-import java.text.NumberFormat;
 import java.util.ArrayList;
 import java.util.List;
 
